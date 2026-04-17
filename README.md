@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=54C5F8&center=true&width=600&lines=Hey+I'm+Muhammad+Rohail+%F0%9F%91%8B" alt="name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=54C5F8&center=true&width=600&lines=Hey+I'm+Muhammad+Rohail+%F0%9F%91%8B" alt="name" />
 </h1>
 
 <p align="center">
