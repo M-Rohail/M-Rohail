@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=54C5F8&center=true&width=600&lines=Hey+I'm+Muhammad+Rohail+%F0%9F%91%8B" alt="name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1500&color=54C5F8&center=true&width=600&lines=Hey+I'm+Muhammad+Rohail+%F0%9F%91%8B" alt="name" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=54C5F8&center=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+iOS+%26+Android+Apps;Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Firebase+%7C+Firestore+%7C+Cloud+Functions;Building+at+J.Sons+Communication+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=800&color=54C5F8&center=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+iOS+%26+Android+Apps;Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Firebase+%7C+Firestore+%7C+Cloud+Functions;Building+at+J.Sons+Communication+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
