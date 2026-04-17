@@ -1,43 +1,54 @@
-<h1 align="center">Hey, I'm Muhammad Rohail 👋</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=54C5F8&height=120&section=header&text=Muhammad%20Rohail&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%26%20Front-End%20Developer&descAlignY=58&descAlign=50" />
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=54C5F8&center=true&width=550&lines=Flutter+%26+Dart+Developer;Cross-Platform+Mobile+Apps+(iOS+%26+Android);Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+at+J.Sons+Communication+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=54C5F8&center=true&width=600&lines=Flutter+%26+Dart+Developer;Cross-Platform+iOS+%26+Android+Apps;Front-End+Web+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Building+at+J.Sons+Communication+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>Flutter &amp; Front-End Developer</b> based in Islamabad, Pakistan <br/>
-  Building cross-platform mobile apps &amp; responsive websites <br/>
-  Currently working at <b>J.Sons Communication</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M-Rohail&label=Profile+Views&color=0e75b6&style=flat" />
+  <a href="https://github.com/M-Rohail"><img src="https://komarev.com/ghpvc/?username=M-Rohail&label=Profile+Views&color=0e75b6&style=flat" /></a>
   <img src="https://img.shields.io/github/followers/M-Rohail?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/badge/Based+In-Islamabad%2C+Pakistan-0e75b6?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Flutter+%26+Web-54C5F8?style=flat" />
 </p>
 
-<h3>🚀 What I Build</h3>
+---
 
-<table>
+## 🚀 What I Build
+
+<table align="center">
   <tr>
-    <td><b>📱 Mobile Apps</b></td>
-    <td>Cross-platform iOS &amp; Android apps with Flutter &amp; Dart</td>
-  </tr>
-  <tr>
-    <td><b>🌐 Websites</b></td>
-    <td>Responsive, modern web UIs with HTML, CSS, JS &amp; React</td>
-  </tr>
-  <tr>
-    <td><b>🔥 Backend</b></td>
-    <td>Firebase for auth, database &amp; cloud functions</td>
-  </tr>
-  <tr>
-    <td><b>🎨 Design</b></td>
-    <td>UI/UX prototyping with Figma</td>
+    <td align="center" width="200">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /><br/>
+      <b>Mobile Apps</b><br/>
+      <sub>Cross-platform iOS & Android<br/>with Flutter & Dart</sub>
+    </td>
+    <td align="center" width="200">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br/>
+      <b>Websites</b><br/>
+      <sub>Responsive UIs with<br/>HTML, CSS, JS & React</sub>
+    </td>
+    <td align="center" width="200">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><br/>
+      <b>Backend</b><br/>
+      <sub>Firebase auth, Firestore<br/>& cloud functions</sub>
+    </td>
+    <td align="center" width="200">
+      <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br/>
+      <b>UI/UX Design</b><br/>
+      <sub>Figma prototyping<br/>& design systems</sub>
+    </td>
   </tr>
 </table>
 
-<h3>📱 Mobile Development</h3>
-<p>
+---
+
+## 📱 Mobile Development
+
+<p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -45,8 +56,9 @@
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-<h3>🌐 Web Development</h3>
-<p>
+## 🌐 Web Development
+
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -54,26 +66,34 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black" />
 </p>
 
-<h3>🛠️ Tools</h3>
-<p>
+## 🛠️ Tools & Environment
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black" />
 </p>
 
-<h3>📊 GitHub Stats</h3>
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Rohail&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Rohail&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Rohail&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Rohail&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=54C5F8&icon_color=54C5F8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Rohail&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=54C5F8" height="165" />
 </p>
 
-<h3>🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Rohail&theme=github-dark-blue&hide_border=true&background=0d1117&ring=54C5F8&fire=54C5F8&currStreakLabel=54C5F8" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/M-Rohail/M-Rohail/output/github-contribution-grid-snake-dark.svg" />
@@ -81,3 +101,7 @@
     srcset="https://raw.githubusercontent.com/M-Rohail/M-Rohail/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/M-Rohail/M-Rohail/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=54C5F8&height=80&section=footer" />
+</div>
